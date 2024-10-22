@@ -3,7 +3,7 @@
 ## MATERIA: APRENDIZAJE AUTOMÁTICO
 ## DOCENTE: LIC. MARTIN MIRABETE
 ## ALUMNO: DIEGO ORONÁ
-## TÍTULO DEL PROYECTO: “CONSUMO DE GAS NATURAL POR RED SEGÚN TIPO DE USUARIO EN TIERRA DEL FUEGO”.
+## TÍTULO DEL PROYECTO: CONSUMO DE GAS NATURAL POR RED SEGÚN TIPO DE USUARIO EN TIERRA DEL FUEGO.
 
 ## Descripción del Proyecto:
 El proyecto “Consumo de Gas Natural por red según tipo de usuario en Tierra del Fuego” tiene como propósito analizar cómo se consume el gas natural en la provincia, dividiendo los datos según el tipo de usuario, que incluye hogares, comercios e industrias. Se recogerán datos sobre el consumo, la facturación y estadísticas de uso, los cuales serán limpiados y transformados para facilitar su análisis. Mediante técnicas de aprendizaje automático, se buscarán patrones en estos datos y se realizarán proyecciones sobre el consumo futuro, teniendo en cuenta factores como el clima y el crecimiento de la población.
