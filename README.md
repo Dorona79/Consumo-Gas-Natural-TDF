@@ -1,4 +1,6 @@
-![banner_flat1](https://github.com/user-attachments/assets/09e8b777-be7a-43a5-bc32-eb786f79a3ec)
+![Gas](https://github.com/user-attachments/assets/191ee540-9b02-43f1-9dd9-8c7f95c6ca0d)
+
+![banner_flat1](https://github.com/user-attachments/assets/81259883-b2bd-4db5-bf90-547c8d3d96af)
 
 ## MATERIA: APRENDIZAJE AUTOMÁTICO
 ## DOCENTE: LIC. MARTIN MIRABETE
