@@ -28,8 +28,6 @@ Es fundamental abordar este problema para garantizar un suministro de gas que se
 
 ¿Se pueden predecir los patrones de consumo futuro en función de los datos históricos?
 
-¿Cómo afecta la implementación de políticas de eficiencia energética al consumo de gas natural?
-
 
 Project Organization
 ------------
