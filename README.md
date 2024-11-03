@@ -27,7 +27,8 @@ Es fundamental abordar este problema para garantizar un suministro de gas que se
 ¿Cómo impacta la población de cada sector en el consumo de gas natural?
 
 ¿Se pueden predecir los patrones de consumo futuro en función de los datos históricos?
-
+## Descripción del Dataset:
+##### El dataset utilizado contiene “cuatro hojas: índice, anual, mensual y ficha técnica” y “la hoja Anual contiene 9 características, mientras que la hoja Mensual contiene 10 características”, incluyendo que “en la hoja anual, la mayoría de las columnas son de tipo categóricos, excepto una columna de tipo numérico y en la hoja mensual similarmente, la mayoría de las columnas son de tipo categóricos, con una columna de tipo numérico”. Los datos provienen de “ENARGAS Ente Nacional Regulador del Gas”, adquiridos de los “años 1993-2023”, y se ha realizado el siguiente preprocesamiento: “Carga del archivo y exploración de los datos, limpieza de los datos, eliminación de las solapas “Indice”, “Mensual” y “Ficha Técnica”, rellenar valores nulos, eliminar columnas, cambiar nombres de las columnas, eliminar filas y eliminar valores atípicos”.
 
 Project Organization
 ------------
