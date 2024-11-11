@@ -46,7 +46,8 @@ En conclusión, el modelo desarrollado ha sido efectivo en la “predicción de 
 * El modelo predice que el consumo industrial de gas en 2024 será de aproximadamente 20,831 m3 unidades de gas”.
 Para futuros trabajos, se recomienda “Implementar variables de, aumento demográfico y temperaturas promedio en la Provincia de Tierra del Fuego”.
 
-
+## ABSTRACT
+## This study investigates the effectiveness of a machine learning model for predicting natural gas consumption in Tierra del Fuego, which is segmented by user type. The model is trained using historical consumption data, including variables such as weather conditions, user type, and consumption patterns. The results demonstrate that the model can predict gas consumption with a high degree of accuracy. Furthermore, this approach may enhance operational efficiency and optimize resource planning, providing benefits for both gas providers and consumers. It is expected that these findings will contribute to more sustainable practices in the energy sector. Additionally, the analysis was conducted thoroughly to ensure reliable outcomes.
 Project Organization
 ------------
 
